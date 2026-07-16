@@ -8,7 +8,17 @@
 - **더블클릭**으로 캐릭터 교체 (고양이/강아지/펭귄/거북이), 드래그로 이동
 - 목도리/사용량 색: 파랑(<50%) → 주황(<80%) → 빨강(80%+)
 
-## 실행
+> [!IMPORTANT]
+> ### 🚀 Python 설치 없이 바로 사용하기
+> **[📥 Releases에서 ClaudePet.exe 다운로드](https://github.com/kst9920/usage_desktop/releases/latest)**
+>
+> 설치·컴파일 과정 없이 exe 하나만 받아서 실행하면 끝!
+> (캐릭터 스킨 4종 내장 / 실행 조건: PC에 Claude Code 로그인)
+>
+> 처음 실행 시 Windows SmartScreen 경고가 뜨면 **"추가 정보" → "실행"**을 누르세요.
+> 서명되지 않은 개인 제작 프로그램이라 뜨는 경고입니다.
+
+## 소스로 실행 (개발자용)
 
 ```
 pip install pillow
